@@ -3,7 +3,7 @@ best of tweets from french riots
 
 Since It is all over the news and especially my Twitter feed, decided to create some sort of best of to work on my JavaScript.
 
-Here at the main steps of this project:
+Here were the main steps of this project:
 
 - I created a very basic frontend then proceeded to add some tweets in embed format directly in the HTML. 
 
