@@ -7,7 +7,7 @@ Here were the main steps of this project:
 
 - I created a very basic frontend then proceeded to add some tweets in embed format directly in the HTML. 
 
-- Added media queries for most devices, with a 1 to 5 link by row, depending on the width of the device.
+- Added media queries for most devices, with a 1 to 5 tweet by row, depending on the width of the device.
 
 - At some point when I added like 30 embed videos, it started to lag pretty hard at the page loading, so it was time to try some JavaScript to only show a select number of the videos.
 
