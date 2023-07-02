@@ -19,9 +19,9 @@ Here were the main steps of this project:
 
 - Then the script to only show a fraction (10) of the whole array of tweets on the page (inside the HTML too)
 
-- After that, the script to load more tweets when clicking the "Load More" button, up until the end of the list when the button disappear
+- After that, the script to load more tweets when clicking the "Load More" button, up until the end of the list when the button disappear (in HTML)
 
-- Finally also added a FR/EN script to change language, and an exit button via 'click' eventListeners
+- Finally also added a FR/EN script to change language, and an exit button via 'click' eventListeners (languageSwitch.js)
 
 
 It took me 2 whole days and it was a really fun experience, first time dealing with AJAX , jQuery. I had no idea what both were before that, i thought they were programming languages lol. Also add to install Cheerio, JSDOM, but not "fs" which was conveniently already preinstalled with Node.js 
