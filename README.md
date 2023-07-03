@@ -31,6 +31,4 @@ It took me 2 whole days and it was a really fun experience, first time dealing w
 
 I had many issues with not understanding Client Side/Server Side code, I have yet to do the OpenClassRoom course on Backend with Node/Express/MongoDB it would have probably been useful for this project. 
 
-Thank to my tech lead ChatGPT who guided me through all of that, I've progressed a lot in my prompt game too. Also installed and configured ESLint the code analysis tool which was useful to find errors here and there.
-It is my first time creating entirely a small app and I will sure do more of it, it was really entertaining and learned a lot along the way. 
-
+- Added a script to sorts tweets in descending order based on tweet ID, so the most recent tweets always show on top of the timeline (tweetOrganizer.js / sorted_links.json)
