@@ -14,8 +14,8 @@ function switchToFrench() {
   if (currentLanguage === 'fr') return; // Already in French
 
   // Update text content
-  pageTitle.textContent = 'Dingueries Emeutes FrenchRiots';
-  navTitle.textContent = 'Mais que font-ils ?!?!';
+  pageTitle.textContent = 'Compil Emeutes';
+  navTitle.textContent = '"La situation est un petit peu tendue"';
   navMenu.textContent = 'Recherche Twitter';
   disclaimer.textContent = 'Les dernières dingueries du jour dans notre douce France...';
 
@@ -28,8 +28,8 @@ function switchToEnglish() {
   if (currentLanguage === 'en') return; // Already in English
 
   // Update text content
-  pageTitle.textContent = 'Riot Madness FrenchRiots';
-  navTitle.textContent = 'WTF are they doing?!?!';
+  pageTitle.textContent = 'Compil FrenchRiots';
+  navTitle.textContent = 'Wtf is going on over there';
   navMenu.textContent = 'Twitter Search';
   disclaimer.textContent = 'Welcome to the French riot extravaganza 2023 edition...';
 
