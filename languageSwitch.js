@@ -15,7 +15,7 @@ function switchToFrench() {
 
   // Update text content
   pageTitle.textContent = 'Compil Emeutes';
-  navTitle.textContent = '"La situation est un petit peu tendue"';
+  navTitle.textContent = 'Compil Vidéos Twitter des Émeutes';
   navMenu.textContent = 'Recherche Twitter';
   disclaimer.textContent = 'Les dernières dingueries du jour dans notre douce France...';
 
@@ -29,9 +29,9 @@ function switchToEnglish() {
 
   // Update text content
   pageTitle.textContent = 'Compil FrenchRiots';
-  navTitle.textContent = 'Wtf is going on over there';
+  navTitle.textContent = 'Twitter Video Compilation of Riots';
   navMenu.textContent = 'Twitter Search';
-  disclaimer.textContent = 'Welcome to the French riot extravaganza 2023 edition...';
+  disclaimer.textContent = 'the Latest Urban Riots in France';
 
   // Update current language
   currentLanguage = 'en';
